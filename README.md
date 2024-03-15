@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently making apks using **dart in flutter.**
+🔭 Focused on advancing expertise in Machine Learning, Deep Learning, Computer Vision, and Image Processing, with a rich portfolio of projects in these domains.
 
-- 🌱 I’m currently learning **c,c++, html, css, java and dart**
+🌱 Currently dedicated to mastering Java for algorithmic problem-solving, regularly practicing Data Structures and Algorithms on LeetCode and other platforms.
 
-- 🤝 I’m looking for help from **like minded people who want to explore deep in the APP-Dev field.**
+🤝 Seeking collaboration with like-minded individuals passionate about delving deeper into the realms of Machine Learning and Data Science.
 
-- 💬 Ask me about **DSA, OOP and FLUTTER**
+💬 Happy to discuss Data Structures, Algorithms, Machine Learning, or any related topics!
 
 - 📫 How to reach me **lalkrishna2205@gmail.com**
 
