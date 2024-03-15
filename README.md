@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **lalkrishna2205@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/14_dtnREzW91tUA4rpOVvsCdzhwm9FznZ?usp=sharing](https://drive.google.com/drive/folders/14_dtnREzW91tUA4rpOVvsCdzhwm9FznZ?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HlPsjiWMaZm4bLllIV-a3j6wz55HAlUC/view?usp=drive_link" target="_blank">resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
