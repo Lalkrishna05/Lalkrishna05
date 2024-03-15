@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🔭 Focused on advancing expertise in Machine Learning, Deep Learning, Computer Vision, and Image Processing, with a rich portfolio of projects in these domains.
+- 🔭 Focused on advancing expertise in Machine Learning, Deep Learning, Computer Vision, and Image Processing, with a rich portfolio of projects in these domains.
 
-🌱 Currently dedicated to mastering Java for algorithmic problem-solving, regularly practicing Data Structures and Algorithms on LeetCode and other platforms.
+- 🌱 Currently dedicated to mastering Java for algorithmic problem-solving, regularly practicing Data Structures and Algorithms on LeetCode and other platforms.
 
-🤝 Seeking collaboration with like-minded individuals passionate about delving deeper into the realms of Machine Learning and Data Science.
+- 🤝 Seeking collaboration with like-minded individuals passionate about delving deeper into the realms of Machine Learning and Data Science.
 
-💬 Happy to discuss Data Structures, Algorithms, Machine Learning, or any related topics!
+- 💬 Happy to discuss Data Structures, Algorithms, Machine Learning, or any related topics!
 
 - 📫 How to reach me **lalkrishna2205@gmail.com**
 
